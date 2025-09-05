@@ -1,0 +1,483 @@
+[2025-09-05T11:11:25.388+0000] {processor.py:161} INFO - Started process (PID=13658) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:11:25.389+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:11:25.393+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:11:25.393+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:11:25.436+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:11:25.484+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:11:25.483+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:11:25.524+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:11:25.523+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:11:25.570+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.192 seconds
+[2025-09-05T11:11:56.220+0000] {processor.py:161} INFO - Started process (PID=13719) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:11:56.221+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:11:56.223+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:11:56.223+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:11:56.238+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:11:56.256+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:11:56.255+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:11:56.265+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:11:56.265+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:11:56.282+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.066 seconds
+[2025-09-05T11:12:26.547+0000] {processor.py:161} INFO - Started process (PID=13780) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:12:26.548+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:12:26.550+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:12:26.549+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:12:26.563+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:12:26.581+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:12:26.581+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:12:26.592+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:12:26.592+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:12:26.613+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.071 seconds
+[2025-09-05T11:12:57.015+0000] {processor.py:161} INFO - Started process (PID=13841) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:12:57.015+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:12:57.019+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:12:57.019+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:12:57.035+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:12:57.052+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:12:57.052+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:12:57.064+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:12:57.063+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:12:57.082+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.073 seconds
+[2025-09-05T11:13:27.369+0000] {processor.py:161} INFO - Started process (PID=13903) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:13:27.370+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:13:27.372+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:13:27.371+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:13:27.386+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:13:27.402+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:13:27.401+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:13:27.413+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:13:27.413+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:13:27.433+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.069 seconds
+[2025-09-05T11:13:58.320+0000] {processor.py:161} INFO - Started process (PID=13965) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:13:58.320+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:13:58.322+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:13:58.322+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:13:58.337+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:13:58.355+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:13:58.354+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:13:58.367+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:13:58.367+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:13:58.386+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.071 seconds
+[2025-09-05T11:14:28.645+0000] {processor.py:161} INFO - Started process (PID=14026) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:14:28.646+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:14:28.648+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:14:28.647+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:14:28.660+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:14:28.681+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:14:28.680+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:14:28.694+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:14:28.693+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:14:28.711+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.071 seconds
+[2025-09-05T11:14:58.833+0000] {processor.py:161} INFO - Started process (PID=14087) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:14:58.834+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:14:58.836+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:14:58.836+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:14:58.853+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:14:58.873+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:14:58.873+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:14:58.886+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:14:58.886+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:14:58.907+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.079 seconds
+[2025-09-05T11:15:29.108+0000] {processor.py:161} INFO - Started process (PID=14148) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:15:29.109+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:15:29.110+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:15:29.110+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:15:29.120+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:15:29.140+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:15:29.140+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:15:29.154+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:15:29.153+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:15:29.171+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.068 seconds
+[2025-09-05T11:15:59.284+0000] {processor.py:161} INFO - Started process (PID=14209) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:15:59.285+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:15:59.286+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:15:59.286+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:15:59.301+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:15:59.319+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:15:59.318+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:15:59.331+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:15:59.330+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:15:59.347+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.067 seconds
+[2025-09-05T11:16:29.429+0000] {processor.py:161} INFO - Started process (PID=14270) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:16:29.429+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:16:29.431+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:16:29.431+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:16:29.443+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:16:29.461+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:16:29.461+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:16:29.472+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:16:29.472+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:16:29.491+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.068 seconds
+[2025-09-05T11:16:59.892+0000] {processor.py:161} INFO - Started process (PID=14331) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:16:59.893+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:16:59.894+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:16:59.894+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:16:59.907+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:16:59.926+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:16:59.926+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:16:59.936+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:16:59.936+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:16:59.957+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.070 seconds
+[2025-09-05T11:17:30.240+0000] {processor.py:161} INFO - Started process (PID=14392) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:17:30.241+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:17:30.243+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:17:30.243+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:17:30.257+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:17:30.274+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:17:30.274+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:17:30.284+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:17:30.283+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:17:30.302+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.067 seconds
+[2025-09-05T11:18:00.533+0000] {processor.py:161} INFO - Started process (PID=14453) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:18:00.534+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:18:00.536+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:18:00.536+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:18:00.549+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:18:00.567+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:18:00.567+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:18:00.578+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:18:00.578+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:18:00.594+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.068 seconds
+[2025-09-05T11:18:30.703+0000] {processor.py:161} INFO - Started process (PID=14514) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:18:30.704+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:18:30.706+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:18:30.705+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:18:30.717+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:18:30.733+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:18:30.732+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:18:30.742+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:18:30.742+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:18:30.760+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.061 seconds
+[2025-09-05T11:19:01.055+0000] {processor.py:161} INFO - Started process (PID=14575) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:19:01.056+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:19:01.058+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:19:01.057+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:19:01.069+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:19:01.087+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:19:01.087+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:19:01.098+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:19:01.098+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:19:01.116+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.065 seconds
+[2025-09-05T11:19:31.398+0000] {processor.py:161} INFO - Started process (PID=14636) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:19:31.399+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:19:31.400+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:19:31.400+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:19:31.413+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:19:31.430+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:19:31.430+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:19:31.442+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:19:31.442+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:19:31.463+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.070 seconds
+[2025-09-05T11:20:01.669+0000] {processor.py:161} INFO - Started process (PID=14697) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:20:01.670+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:20:01.672+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:20:01.672+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:20:01.689+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:20:01.708+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:20:01.708+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:20:01.720+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:20:01.720+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:20:01.739+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.077 seconds
+[2025-09-05T11:20:31.888+0000] {processor.py:161} INFO - Started process (PID=14758) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:20:31.889+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:20:31.890+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:20:31.890+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:20:31.899+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:20:31.916+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:20:31.916+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:20:31.926+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:20:31.926+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:20:31.945+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.062 seconds
+[2025-09-05T11:21:02.146+0000] {processor.py:161} INFO - Started process (PID=14819) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:21:02.147+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:21:02.149+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:21:02.149+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:21:02.168+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:21:02.186+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:21:02.186+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:21:02.198+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:21:02.197+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:21:02.217+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.078 seconds
+[2025-09-05T11:21:32.518+0000] {processor.py:161} INFO - Started process (PID=14880) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:21:32.519+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:21:32.521+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:21:32.521+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:21:32.544+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:21:32.575+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:21:32.574+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:21:32.589+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:21:32.589+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:21:32.609+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.097 seconds
+[2025-09-05T11:22:02.792+0000] {processor.py:161} INFO - Started process (PID=14941) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:22:02.793+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:22:02.795+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:22:02.795+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:22:02.806+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:22:02.821+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:22:02.821+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:22:02.832+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:22:02.832+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:22:02.848+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.060 seconds
+[2025-09-05T11:22:33.086+0000] {processor.py:161} INFO - Started process (PID=15001) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:22:33.086+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:22:33.088+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:22:33.088+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:22:33.099+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:22:33.117+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:22:33.116+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:22:33.128+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:22:33.127+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:22:33.144+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.063 seconds
+[2025-09-05T11:23:03.189+0000] {processor.py:161} INFO - Started process (PID=15061) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:23:03.190+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:23:03.192+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:23:03.191+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:23:03.202+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:23:03.227+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:23:03.227+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:23:03.238+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:23:03.238+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:23:03.255+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.070 seconds
+[2025-09-05T11:23:33.791+0000] {processor.py:161} INFO - Started process (PID=15122) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:23:33.791+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:23:33.793+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:23:33.793+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:23:33.805+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:23:33.822+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:23:33.822+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:23:33.833+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:23:33.833+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:23:33.853+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.067 seconds
+[2025-09-05T11:24:04.521+0000] {processor.py:161} INFO - Started process (PID=15183) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:24:04.522+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:24:04.523+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:24:04.523+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:24:04.537+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:24:04.555+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:24:04.555+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:24:04.566+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:24:04.566+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:24:04.583+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.067 seconds
+[2025-09-05T11:24:35.258+0000] {processor.py:161} INFO - Started process (PID=15244) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:24:35.259+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:24:35.261+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:24:35.261+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:24:35.278+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:24:35.296+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:24:35.295+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:24:35.307+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:24:35.306+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:24:35.324+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.071 seconds
+[2025-09-05T11:25:05.660+0000] {processor.py:161} INFO - Started process (PID=15305) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:25:05.661+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:25:05.663+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:25:05.663+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:25:05.677+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:25:05.694+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:25:05.693+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:25:05.705+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:25:05.705+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:25:05.722+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.066 seconds
+[2025-09-05T11:25:36.245+0000] {processor.py:161} INFO - Started process (PID=15366) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:25:36.246+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:25:36.247+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:25:36.247+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:25:36.259+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:25:36.275+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:25:36.275+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:25:36.286+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:25:36.285+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:25:36.303+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.063 seconds
+[2025-09-05T11:26:06.854+0000] {processor.py:161} INFO - Started process (PID=15427) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:26:06.855+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:26:06.857+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:26:06.856+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:26:06.867+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:26:06.882+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:26:06.882+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:26:06.893+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:26:06.892+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:26:06.910+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.061 seconds
+[2025-09-05T11:26:37.404+0000] {processor.py:161} INFO - Started process (PID=15488) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:26:37.405+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:26:37.407+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:26:37.406+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:26:37.417+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:26:37.433+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:26:37.433+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:26:37.444+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:26:37.443+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:26:37.461+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.062 seconds
+[2025-09-05T11:27:07.898+0000] {processor.py:161} INFO - Started process (PID=15549) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:27:07.899+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:27:07.900+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:27:07.900+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:27:07.912+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:27:07.927+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:27:07.927+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:27:07.938+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:27:07.937+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:27:07.955+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.062 seconds
+[2025-09-05T11:27:38.067+0000] {processor.py:161} INFO - Started process (PID=15610) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:27:38.068+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:27:38.070+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:27:38.070+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:27:38.080+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:27:38.099+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:27:38.099+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:27:38.111+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:27:38.111+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:27:38.130+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.068 seconds
+[2025-09-05T11:28:08.561+0000] {processor.py:161} INFO - Started process (PID=15671) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:28:08.562+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:28:08.564+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:28:08.563+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:28:08.582+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:28:08.599+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:28:08.598+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:28:08.609+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:28:08.608+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:28:08.629+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.073 seconds
+[2025-09-05T11:28:38.901+0000] {processor.py:161} INFO - Started process (PID=15732) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:28:38.902+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:28:38.904+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:28:38.903+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:28:38.925+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:28:38.940+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:28:38.940+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:28:38.950+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:28:38.950+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:28:38.970+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.074 seconds
+[2025-09-05T11:29:09.040+0000] {processor.py:161} INFO - Started process (PID=15793) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:29:09.041+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:29:09.044+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:29:09.043+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:29:09.054+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:29:09.072+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:29:09.072+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:29:09.083+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:29:09.083+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:29:09.104+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.070 seconds
+[2025-09-05T11:29:39.602+0000] {processor.py:161} INFO - Started process (PID=15854) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:29:39.603+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:29:39.606+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:29:39.605+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:29:39.619+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:29:39.637+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:29:39.637+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:29:39.648+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:29:39.648+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:29:39.665+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.067 seconds
+[2025-09-05T11:30:10.252+0000] {processor.py:161} INFO - Started process (PID=15915) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:30:10.252+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:30:10.254+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:30:10.254+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:30:10.264+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:30:10.280+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:30:10.280+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:30:10.291+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:30:10.291+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:30:10.308+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.062 seconds
+[2025-09-05T11:30:40.877+0000] {processor.py:161} INFO - Started process (PID=15976) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:30:40.878+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:30:40.879+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:30:40.879+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:30:40.892+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:30:40.907+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:30:40.907+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:30:40.916+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:30:40.916+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:30:40.934+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.061 seconds
+[2025-09-05T11:31:11.127+0000] {processor.py:161} INFO - Started process (PID=16037) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:31:11.128+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:31:11.129+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:31:11.129+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:31:11.140+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:31:11.156+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:31:11.155+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:31:11.165+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:31:11.165+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:31:11.183+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.061 seconds
+[2025-09-05T11:31:41.321+0000] {processor.py:161} INFO - Started process (PID=16098) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:31:41.322+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:31:41.324+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:31:41.324+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:31:41.335+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:31:41.350+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:31:41.349+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:31:41.359+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:31:41.359+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:31:41.374+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.057 seconds
+[2025-09-05T11:32:11.447+0000] {processor.py:161} INFO - Started process (PID=16159) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:32:11.448+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:32:11.450+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:32:11.450+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:32:11.463+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:32:11.481+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:32:11.481+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:32:11.491+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:32:11.491+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:32:11.508+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.065 seconds
+[2025-09-05T11:32:41.725+0000] {processor.py:161} INFO - Started process (PID=16220) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:32:41.725+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:32:41.727+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:32:41.727+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:32:41.739+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:32:41.754+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:32:41.754+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:32:41.764+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:32:41.763+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:32:41.780+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.060 seconds
+[2025-09-05T11:33:11.960+0000] {processor.py:161} INFO - Started process (PID=16281) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:33:11.961+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:33:11.962+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:33:11.962+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:33:11.972+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:33:11.987+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:33:11.987+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:33:11.997+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:33:11.996+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:33:12.014+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.059 seconds
+[2025-09-05T11:33:42.267+0000] {processor.py:161} INFO - Started process (PID=16342) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:33:42.268+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:33:42.269+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:33:42.269+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:33:42.280+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:33:42.296+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:33:42.296+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:33:42.306+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:33:42.305+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:33:42.323+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.060 seconds
+[2025-09-05T11:34:12.758+0000] {processor.py:161} INFO - Started process (PID=16403) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:34:12.759+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:34:12.761+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:34:12.761+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:34:12.773+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:34:12.789+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:34:12.789+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:34:12.799+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:34:12.799+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:34:12.815+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.062 seconds
+[2025-09-05T11:34:43.412+0000] {processor.py:161} INFO - Started process (PID=16464) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:34:43.413+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:34:43.415+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:34:43.414+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:34:43.425+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:34:43.439+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:34:43.439+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:34:43.449+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:34:43.449+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:34:43.466+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.060 seconds
+[2025-09-05T11:35:13.713+0000] {processor.py:161} INFO - Started process (PID=16525) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:35:13.714+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:35:13.716+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:35:13.716+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:35:13.739+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:35:13.754+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:35:13.754+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:35:13.764+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:35:13.764+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:35:13.783+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.077 seconds
+[2025-09-05T11:35:44.061+0000] {processor.py:161} INFO - Started process (PID=16586) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:35:44.062+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:35:44.063+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:35:44.063+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:35:44.077+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:35:44.092+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:35:44.092+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:35:44.102+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:35:44.102+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:35:44.119+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.062 seconds
+[2025-09-05T11:36:14.857+0000] {processor.py:161} INFO - Started process (PID=16645) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:36:14.858+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:36:14.859+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:36:14.859+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:36:14.875+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:36:14.895+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:36:14.895+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:36:14.905+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:36:14.905+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:36:14.925+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.073 seconds
+[2025-09-05T11:36:45.260+0000] {processor.py:161} INFO - Started process (PID=16712) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:36:45.261+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:36:45.262+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:36:45.262+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:36:45.273+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:36:45.289+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:36:45.289+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:36:45.299+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:36:45.299+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:36:45.317+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.061 seconds
+[2025-09-05T11:37:16.273+0000] {processor.py:161} INFO - Started process (PID=16773) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:37:16.274+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:37:16.276+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:37:16.275+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:37:16.290+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:37:16.309+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:37:16.308+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:37:16.324+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:37:16.323+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:37:16.359+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.090 seconds
+[2025-09-05T11:37:46.400+0000] {processor.py:161} INFO - Started process (PID=16834) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:37:46.401+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:37:46.403+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:37:46.402+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:37:46.414+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:37:46.432+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:37:46.431+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:37:46.442+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:37:46.442+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:37:46.459+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.063 seconds
+[2025-09-05T11:38:16.729+0000] {processor.py:161} INFO - Started process (PID=16895) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:38:16.730+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:38:16.731+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:38:16.731+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:38:16.741+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:38:16.755+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:38:16.754+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:38:16.766+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:38:16.765+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:38:16.901+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.177 seconds
+[2025-09-05T11:38:47.289+0000] {processor.py:161} INFO - Started process (PID=16956) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:38:47.290+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:38:47.292+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:38:47.292+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:38:47.303+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:38:47.319+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:38:47.318+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:38:47.329+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:38:47.328+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:38:47.345+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.060 seconds
+[2025-09-05T11:39:18.217+0000] {processor.py:161} INFO - Started process (PID=17017) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:39:18.218+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:39:18.219+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:39:18.219+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:39:18.230+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:39:18.244+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:39:18.243+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:39:18.254+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:39:18.253+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:39:18.271+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.059 seconds
+[2025-09-05T11:39:48.324+0000] {processor.py:161} INFO - Started process (PID=17078) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:39:48.325+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:39:48.326+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:39:48.326+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:39:48.336+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:39:48.351+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:39:48.351+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:39:48.360+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:39:48.360+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:39:48.376+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.057 seconds
+[2025-09-05T11:40:18.829+0000] {processor.py:161} INFO - Started process (PID=17139) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:40:18.830+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:40:18.832+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:40:18.832+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:40:18.843+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:40:18.859+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:40:18.859+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:40:18.870+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:40:18.870+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:40:18.888+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.065 seconds
+[2025-09-05T11:40:49.461+0000] {processor.py:161} INFO - Started process (PID=17200) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:40:49.463+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:40:49.464+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:40:49.464+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:40:49.479+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:40:49.497+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:40:49.497+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:40:49.510+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:40:49.509+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:40:49.530+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.073 seconds
+[2025-09-05T11:41:20.309+0000] {processor.py:161} INFO - Started process (PID=17261) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:41:20.309+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:41:20.311+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:41:20.311+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:41:20.322+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:41:20.337+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:41:20.337+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:41:20.347+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:41:20.346+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:41:20.360+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.056 seconds
+[2025-09-05T11:41:51.243+0000] {processor.py:161} INFO - Started process (PID=17322) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:41:51.244+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:41:51.245+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:41:51.245+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:41:51.256+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:41:51.271+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:41:51.271+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:41:51.281+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:41:51.281+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:41:51.298+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.059 seconds
+[2025-09-05T11:42:21.812+0000] {processor.py:161} INFO - Started process (PID=17383) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:42:21.813+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:42:21.814+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:42:21.814+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:42:21.830+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:42:21.844+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:42:21.844+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:42:21.853+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:42:21.853+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:42:21.869+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.062 seconds
+[2025-09-05T11:42:52.063+0000] {processor.py:161} INFO - Started process (PID=17444) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:42:52.065+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:42:52.067+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:42:52.067+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:42:52.078+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:42:52.092+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:42:52.092+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:42:52.102+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:42:52.102+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:42:52.122+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.063 seconds
+[2025-09-05T11:43:23.018+0000] {processor.py:161} INFO - Started process (PID=17505) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:43:23.019+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:43:23.021+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:43:23.020+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:43:23.034+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:43:23.050+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:43:23.050+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:43:23.060+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:43:23.059+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:43:23.078+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.065 seconds
+[2025-09-05T11:43:53.285+0000] {processor.py:161} INFO - Started process (PID=17566) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:43:53.285+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:43:53.286+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:43:53.286+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:43:53.295+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:43:53.310+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:43:53.310+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:43:53.319+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:43:53.319+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:43:53.337+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.056 seconds
+[2025-09-05T11:44:24.114+0000] {processor.py:161} INFO - Started process (PID=17627) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:44:24.114+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:44:24.115+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:44:24.115+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:44:24.130+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:44:24.146+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:44:24.146+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:44:24.156+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:44:24.156+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:44:24.174+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.065 seconds
+[2025-09-05T11:44:55.045+0000] {processor.py:161} INFO - Started process (PID=17688) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:44:55.046+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:44:55.046+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:44:55.046+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:44:55.056+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:44:55.070+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:44:55.070+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:44:55.080+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:44:55.080+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:44:55.096+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.056 seconds
+[2025-09-05T11:45:25.167+0000] {processor.py:161} INFO - Started process (PID=17749) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:45:25.168+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:45:25.169+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:45:25.169+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:45:25.180+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:45:25.195+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:45:25.195+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:45:25.205+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:45:25.205+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:45:25.221+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.058 seconds
+[2025-09-05T11:45:47.544+0000] {processor.py:161} INFO - Started process (PID=17811) to work on /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:45:47.545+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/math_pipeline.py for tasks to queue
+[2025-09-05T11:45:47.545+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:45:47.545+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:45:47.583+0000] {processor.py:840} INFO - DAG(s) 'math_pipeline' retrieved from /opt/airflow/dags/math_pipeline.py
+[2025-09-05T11:45:47.660+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:45:47.660+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T11:45:47.668+0000] {logging_mixin.py:188} INFO - [2025-09-05T11:45:47.668+0000] {dag.py:3954} INFO - Setting next_dagrun for math_pipeline to None, run_after=None
+[2025-09-05T11:45:47.686+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/math_pipeline.py took 0.147 seconds

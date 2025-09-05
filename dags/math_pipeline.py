@@ -1,71 +1,75 @@
-from airflow import DAG
-from airflow.operators.python import PythonOperator
+from airflow.decorators import dag, task
 from datetime import datetime
+import logging
 
-def start_process():
-    print("Task1: Starting the DAG process.")
+logger = logging.getLogger(__name__)
 
-def multiply_by_2():
-    number = 5
-    result = number * 2
-    print(f"Task2: {number} * 2 = {result}")
-    return result
+# Constants
+NUMBER1: int = 5
+NUMBER2: int = 11
+ADD_VALUE: int = 10
+DIVISOR: int = 3
 
-def add_10():
-    number = 11
-    result = number + 10
-    print(f"Task3: {number} + 10 = {result}")
-    return result
-
-def sum_results(ti):
-    val1 = ti.xcom_pull(task_ids='multiply_by_2')
-    val2 = ti.xcom_pull(task_ids='add_10')
-    total = val1 + val2
-    print(f"Task4: Sum of {val1} and {val2} = {total}")
-    return total
-
-def divide_by_3(ti):
-    val = ti.xcom_pull(task_ids='sum_results')
-    result = val / 3
-    print(f"Task5: {val} / 3 = {result}")
-    return result
-
-def end_process():
-    print("Task6: DAG process completed.")
-
-with DAG(
-    'math_pipeline',
-    start_date=datetime(2025, 9, 4),
+@dag(
+    dag_id="math_pipeline",
+    description="DAG that performs a simple math workflow with dependencies",
+    start_date=datetime(2025, 1, 1),
     schedule_interval=None,
     catchup=False,
-) as dag:
+    doc_md="""
+    ### Math Pipeline DAG
+    6 tasks performing simple arithmetic:
+    1. Start process
+    2. Multiply NUMBER1 by 2
+    3. Add ADD_VALUE to NUMBER2
+    4. Sum results from task 2 and 3
+    5. Divide result by DIVISOR
+    6. Log completion
+    """
+)
+def math_pipeline():
+    @task
+    def start_process() -> str:
+        logger.info("Task1: Starting the DAG process.")
+        return "ok"
 
-    t1 = PythonOperator(
-        task_id='start_process',
-        python_callable=start_process
-    )
+    @task
+    def multiply_number() -> int:
+        result = NUMBER1 * 2
+        logger.info(f"Task2: {NUMBER1} * 2 = {result}")
+        return result
 
-    t2 = PythonOperator(
-        task_id='multiply_by_2',
-        python_callable=multiply_by_2
-    )
+    @task
+    def add_constant() -> int:
+        result = NUMBER2 + ADD_VALUE
+        logger.info(f"Task3: {NUMBER2} + {ADD_VALUE} = {result}")
+        return result
 
-    t3 = PythonOperator(
-        task_id='add_10',
-        python_callable=add_10
-    )
+    @task
+    def sum_results(val1: int, val2: int) -> int:
+        total = val1 + val2
+        logger.info(f"Task4: {val1} + {val2} = {total}")
+        return total
 
-    t4 = PythonOperator(
-        task_id='sum_results',
-        python_callable=sum_results
-    )
+    @task
+    def divide_result(val: float) -> float:
+        if DIVISOR == 0:
+            logger.error("DIVISOR is 0! Cannot divide by zero.")
+            raise ValueError("DIVISOR cannot be zero.")
+        result = val / DIVISOR
+        logger.info(f"Task5: {val} / {DIVISOR} = {result}")
+        return result
 
-    t5 = PythonOperator(
-        task_id='divide_by_3',
-        python_callable=divide_by_3
-    )
+    @task
+    def end_process(final_value: float) -> None:
+        logger.info(f"Task6: DAG process completed successfully. Final result = {final_value}")
 
-    t6 = PythonOperator(
-        task_id='end_process',
-        python_callable=end_process
-    )
+    # wiring
+    _ = start_process()
+    v1 = multiply_number()
+    v2 = add_constant()
+    summed = sum_results(v1, v2)
+    final = divide_result(summed)
+    end_process(final)
+
+dag = math_pipeline()
